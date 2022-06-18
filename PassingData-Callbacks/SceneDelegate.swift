@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Test
+//  PassingData-Callbacks
 //
 //  Created by Ruslan on 16.02.2022.
 //
